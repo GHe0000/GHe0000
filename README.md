@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ghe0000.ghe0000)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghe0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--

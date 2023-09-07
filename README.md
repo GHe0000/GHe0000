@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghe0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghe0000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghe0000/ghe0000/output/github-contribution-grid-snake-dark.svg">

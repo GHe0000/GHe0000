@@ -2,6 +2,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghe0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://raw.githubusercontent.com/ghe0000/ghe0000/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **GHe0000/GHe0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghe0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghe0000)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 <!--
 **GHe0000/GHe0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

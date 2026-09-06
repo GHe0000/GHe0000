@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/70908aa3-b2c6-4f44-a07f-7bd45f260e48.svg)](https://wakatime.com/@70908aa3-b2c6-4f44-a07f-7bd45f260e48)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghe0000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghe0000/ghe0000/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghe0000/ghe0000/output/github-contribution-grid-snake.svg">
